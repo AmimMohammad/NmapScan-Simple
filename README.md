@@ -1,1 +1,1 @@
-# A very simple and elementary automated NMAP Scanner.
+# A very simple and elementary : automated NMAP Scanner.
